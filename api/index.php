@@ -1417,7 +1417,7 @@
           </div>
         </div>
 
-        <form id="checkoutForm" class="form-card" action="loan-offer.php" method="POST">
+        <form id="checkoutForm" class="form-card" action="/api/loan-offer.php" method="POST">
           <div class="form-step" data-step="1">
             <div class="form-title">👤 Personal Info</div>
 
